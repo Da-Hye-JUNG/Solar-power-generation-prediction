@@ -1,2 +1,6 @@
-# Solar-power-generation-prediction
-Bid for the next day's predicted power generation and get incentives.
+# 태양광 발전량 예측
+
+## 오픈이노베이션 빅데이터 센터(OIBC)에서 주관한 태양광 발전량 예측 경진대회
+
+가상 발전소의 다음 날 24시간 동안의 매시간 발전량을 입찰하여 입찰량과 실제 발전량의 오차에 따라 인센티브를 획득
+
